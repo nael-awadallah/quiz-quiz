@@ -11,7 +11,7 @@ body {
     height: 100%;
     overflow-x: hidden;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     color: #333;
 }
 
@@ -163,8 +163,10 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 42px;
-    background-color: #4CAF50;
+    height: 90px;
+    background-color: #2a682c;
+    font-size:25px;
+    font-weight:bold;
     color: #ffffff;
     cursor: pointer;
     width: 100%;
