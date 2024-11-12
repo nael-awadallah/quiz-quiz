@@ -28,6 +28,7 @@ body {
 .description {
     white-space: pre-wrap;
     line-height: 24px;
+    font-size: 14px;
 }
 
 .made-by {
